@@ -26,5 +26,5 @@ The Real-Time Weather Monitoring Application is designed to fetch, process, and 
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/WeatherMonitoringApp.git
+   git clone https://github.com/krkshitiz/WeatberMonitoringApp.git
    cd WeatherMonitoringApp
